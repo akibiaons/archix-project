@@ -1,0 +1,97 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: antiquewhite;
+    background-color: rgb(16, 13, 26);
+    background-image: url("../resources/blk-bkg.png");
+    line-height: 1.2;
+}
+
+img {
+    width: 100%;
+}
+
+/*Start of the navbar styles*/
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 150%;
+    margin-top: 1%;
+    padding-top: 1%;
+    margin-left: .5%;
+    margin-right: .5%;
+}
+
+.navbar p {
+    color: rgb(251, 101, 41);
+}
+
+.navbar a {
+    color: antiquewhite;
+}
+
+.navbar button {
+    background-color: rgb(251, 101, 41);
+    color: antiquewhite;
+    flex-wrap: wrap;
+}
+
+.body-container {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    font-size: 26px;
+}
+
+.body-content-child-1 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.body-content-child-2 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+/*End of the navbar styles*/
+/*
+.body-container {
+    width: 1000px;
+    height: ;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+    align-items: center;
+    align-content: stretch;
+}
+
+.body-content {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    order: 1;
+}
+
+.body-image {
+    display: block;
+    flex-grow: 0;
+    flex-shrink: 1;
+    flex-basis: auto;
+    order: 2;
+    align-items:flex-end;
+}
+
+.body-image img {
+    width: 40%;
+    height: auto;
+}
+*/
