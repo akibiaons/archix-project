@@ -28,6 +28,14 @@ img {
     margin-right: .5%;
 }
 
+#logo {
+    border-bottom: none;
+}
+
+#logo:hover {
+    cursor: pointer;
+}
+
 .navbar p {
     color: rgb(251, 101, 41);
 }
