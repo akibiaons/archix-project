@@ -40,6 +40,7 @@ img {
     background-color: rgb(251, 101, 41);
     color: antiquewhite;
     flex-wrap: wrap;
+    border-radius: 10px;
 }
 /*End of the navbar styles*/
 /*Start of body elements and content*/
