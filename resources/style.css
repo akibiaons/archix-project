@@ -118,18 +118,28 @@ img {
 }
 
 .body-content-2-child-1 {
+    border:rgb(57, 135, 200) solid;
     width: 50%;
     float: left;
     padding: 20px;
 }
 
 .body-content-2-child-2 {
+    border:rgb(57, 135, 200) solid;
     width: 50%;
     float: left;
     padding: 20px;
 }
 
 .body-content-2-child-3 {
+    border:rgb(57, 135, 200) solid;
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.body-content-2-child-4 {
+    border:rgb(57, 135, 200) solid;
     width: 50%;
     float: left;
     padding: 20px;
