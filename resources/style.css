@@ -85,6 +85,7 @@ img {
 
 .footer-container {
     display: flex;
+    background-color: #303030;
 }
 
 .footer-content-child-1 {
