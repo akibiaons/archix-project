@@ -141,6 +141,10 @@ img {
     padding: 30px;
 }
 
+.footer-content-child-1 h3 {
+    color: rgb(251, 101, 41);
+}
+
 .footer-content-child-2 {
     width: 50%;
     float: left;
