@@ -34,14 +34,32 @@ img {
 
 .navbar a {
     color: antiquewhite;
+    text-decoration: none;
 }
 
-.navbar button {
+.navbar a:hover {
+    color: rgb(57, 135, 200);
+    transition-duration: 1s;
+}
+
+#navbar-button {
+    border: 1px solid;
+    background-color: rgb(251, 101, 41);
+}
+
+#navbar-button:hover {
+    border: 1px solid;
+    background-color: rgb(0, 0, 0);
+    color: rgb(57, 135, 200);
+}
+
+/*.navbar button {
     background-color: rgb(251, 101, 41);
     color: antiquewhite;
     flex-wrap: wrap;
     border-radius: 10px;
-}
+}*/
+
 /*End of the navbar styles*/
 /*Start of body elements and content*/
 .body-container {
