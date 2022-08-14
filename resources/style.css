@@ -82,6 +82,51 @@ img {
     float: left;
     padding: 20px;
 }
+
+/*Start of body-content-2 which will contain info about previous architecture projects*/
+
+.body-content-2-description {
+    display: flex;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    font-size: 26px;
+}
+
+.body-content-2-description-2  {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    justify-content: center;
+}
+
+.body-container-2 {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.body-content-2-child-1 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.body-content-2-child-2 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.body-content-2-child-3 {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
 /*End of the body content and elements*/
 /*Start of the footer elements below is the footer navigation column*/
 
