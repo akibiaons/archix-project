@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    line-height: 150%;
+    line-height: 130%;
 }
 
 body {
@@ -71,17 +71,17 @@ img {
 .footer-content-child-1 {
     width: 50%;
     float: left;
-    padding: 20px;
+    padding: 30px;
 }
 
 .footer-content-child-2 {
     width: 50%;
     float: left;
-    padding: 20px;
+    padding: 30px;
 }
 
 .footer-content-child-3 {
     width: 50%;
     float: left;
-    padding: 20px;
+    padding: 30px;
 }
