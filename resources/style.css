@@ -153,6 +153,17 @@ img {
     background-color: #303030;
 }
 
+.footer-container a {
+    color: antiquewhite;
+    text-decoration: none;
+    border-bottom: .5px solid rgb(251, 101, 41);
+}
+
+.footer-container a:hover {
+    color: rgb(57, 135, 200);
+    border-bottom: none;
+}
+
 .footer-content-child-1 {
     width: 50%;
     float: left;
